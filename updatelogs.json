@@ -1,18 +1,11 @@
 [
  {
-  "version": "0.1",
-  "date": "06/02/26" ,
-  "mode": "Main",
+  "version": "0",
+  "date": "xx/xx/xx",
   "notes": [
-   "#67 67 !!"
+   "",
+   ""
   ]
  },
- {
-  "version": "0.1",
-  "date": "06/02/26",
-  "notes": [
-   "** New github integration **",
-   "WE ARE WINNING"
-  ]
- }
+ 
 ]
