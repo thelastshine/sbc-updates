@@ -1,1 +1,40 @@
-hello 
+# ADDITIONS
+* Return of Eternal Glove
+* Completed and added Massive Arena rework!
+* Added newest Main Arena.
+
+# FIXES
+* Killstreak equip cooldown
+* Below Zero obtainment
+* Enough to Drive you Crazy... obtainment
+* Bringer of Peace obtainment
+* Killstreak: The Final Streak beam decay duration
+* Killstreak: The Final Streak's Piercing Stab not giving kills
+* Mimic 310 Orb
+* Permanant Virtue points
+* Permanant Present buffs
+* Reaper: Pure Darkness 6000 Permanant IFrames
+* Update version being always outdated
+* Absolution 5k Stomp Size + Cooldown
+* 75 Glove GUI
+
+
+# CHANGES
+* Moved Block of Creation to Forest Islands
+* Temporarily shaved Forest Islands trees for performance.
+* Made Killstreak Glove support 75 Glove's portal.
+* Nerfed Immunities for Condemnation
+* Nerfed Immunities for Killstreak: The Final Streak
+* Nerfed Equilibrium damage (2500 > 250, 0.25 base multiplier > 0.1 base multiplier)
+* Equilibrium now dies instantly if its HP drops below 1
+* Removed Siphon's ability to steal powercaps
+* Removed Pathogenic Infernum's ability to steal immunities
+* Reaper: Pure Darkness's 10000 powercap is now 95. (95 <- 150)
+* Disabled Glove on Back.
+* Holo Glove now has a debounce on it's purchases.
+* Most of Holo Glove's upgrades scale with the oven level / pizzaroll count.
+* Killstreak: The Final Streak now has longer beam cooldowns.
+
+# REMOVED
+* Larger Glove
+
