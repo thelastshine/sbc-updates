@@ -1,1 +1,23 @@
+# ADDITIONS
+* Rescripted a bunch of gloves
+* Some dummies had enough of being bullied and took fighting lessons (They're also worth a few more kills somehow)
 
+# FIXES
+* Gloves no longer randomly stop hitting things in front of you
+* Fixed **Hit**
+* Fixed **Reaper: Pure Darkness** having waterwalk after the nuke
+* You can no longer get dragged into a portal while getting pulled by an ability
+* Fixed **MLG Jump** getting **awarded randomly**
+* Fixed **Bubble** messing up your center of mass
+
+# CHANGES
+*  Increased **Stun** ability cooldown **(15 > 35)**
+* **Sightless **now requires **The Flipside** instead of **Meet Your Maker**
+* **Reaper: Pure Darkness** is now **unable to jump** during its beam ability, and its **walkspeed changes are gradual** instead of instant
+* Fixed **Clarity's** damage calculation (Starlight)
+
+# REMOVED
+*  **Ball**
+* **Spite**
+* **Hallow Jack**
+ note: None of the removed gloves except ball were really used, and since theyre notably buggy due to cosple making them, we decided to just remove them
