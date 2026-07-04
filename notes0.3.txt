@@ -20,4 +20,4 @@
 *  **Ball**
 * **Spite**
 * **Hallow Jack**
- note: None of the removed gloves except ball were really used, and since theyre notably buggy due to cosple making them, we decided to just remove them
+ note: None of the removed gloves except ball were really used, and since theyre notably buggy due to cosple making them, we decided to just remove them.
