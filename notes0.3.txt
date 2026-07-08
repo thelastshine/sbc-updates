@@ -1,6 +1,8 @@
 # ADDITIONS
 * Rescripted a bunch of gloves
-* Some dummies had enough of being bullied and took fighting lessons (They're also worth a few more kills somehow)
+* Some dummies had enough of being bullied and took fighting lessons (They're also worth a few more kills in hardcore)
+* Added **JSABeve** (Cyan) to Sbeve variant pool
+* Melted some crimson icebergs
 
 # FIXES
 * Gloves no longer randomly stop hitting things in front of you
@@ -9,15 +11,21 @@
 * You can no longer get dragged into a portal while getting pulled by an ability
 * Fixed **MLG Jump** getting **awarded randomly**
 * Fixed **Bubble** messing up your center of mass
+* Fixed Final Calamity ability not killing people
+* Fixed Final Calamity ability killing the user
+* Fixed R:PD 12.5k being accessible without requirements
 
 # CHANGES
 *  Increased **Stun** ability cooldown **(15 > 35)**
 * **Sightless **now requires **The Flipside** instead of **Meet Your Maker**
 * **Reaper: Pure Darkness** is now **unable to jump** during its beam ability, and its **walkspeed changes are gradual** instead of instant
 * Fixed **Clarity's** damage calculation (Starlight)
+* Disabled Rave Glove, Get a Snack Glove, and pretty much every Halloween glove for fixes.
+* Made [M][A][O][W]: Destroyer of Worlds vortex larger
 
 # REMOVED
 *  **Ball**
 * **Spite**
 * **Hallow Jack**
+* **Trick or Treat**
  note: None of the removed gloves except ball were really used, and since theyre notably buggy due to cosple making them, we decided to just remove them.
