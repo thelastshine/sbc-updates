@@ -2,7 +2,7 @@
 * Rescripted a bunch of gloves
 * Some dummies had enough of being bullied and took fighting lessons (They're also worth a few more kills in hardcore)
 * Added **JSABeve** (Cyan) to Sbeve variant pool
-* Melted some crimson icebergs
+* Melted some crimson icebergs.. we don't reccomend standing close to the edge of the water.
 
 # FIXES
 * Gloves no longer randomly stop hitting things in front of you
