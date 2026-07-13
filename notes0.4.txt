@@ -1,0 +1,21 @@
+# ADDITIONS
+* Time of day setting
+
+# FIXES
+* Both Stability and U:SI are now correctly soulless again
+* Fixed R:PD missing invincibility frames
+* Fixed 3500 KS subphases
+* Fixed Telekinesis
+* Fixed 75's cooldown still being 9 if the button is clicked
+* Fixed Sbeve showing the wrong ability if it didnt get the Cyan type
+* Fixed being able to hit yourself with several things
+* Fixed Snow permanently slowing
+
+# CHANGES
+* Changed lighting back to Realistic with a few optimizations
+* Slightly nerfed "Unplayable" AI for normal NPCs
+
+# REMOVED
+* Removed Sbeve's streak variant considering it doesn't kill anymore
+* Removed Popstar's ability to Crit
+-# smaller update this time to fix a lot of stuff
