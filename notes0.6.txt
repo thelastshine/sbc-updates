@@ -17,6 +17,7 @@
 * Wasteland
 * sansman888 (BOSS) causing extreme FPS lag on low end devices
 * Unstability not converting properly
+* Condemnation's radius passive
 
 # CHANGES
 * R:SIHODAD's slap speed (15 > 35)
