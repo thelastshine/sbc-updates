@@ -1,1 +1,43 @@
+# ADDITIONS
+* 0.5s Spawn Dummy CD
+* Temporary warning for Random Events in the chat, until one for GUI can be made
 
+# FIXES
+* Starlight + Ultra Instinct granting immortality
+* R:SIHODAD not being equippable
+* Reaper (Combat)
+* being golded not ragdolling you
+* The Perfect Imperfection
+* Essence of laziness
+* The Sleeper (Tag)
+* Anti's buff check
+* Keeper of the seal
+* Killstreak's abilities not giving true kills
+* Dow Vortex collision
+* Wasteland
+* sansman888 (BOSS) causing extreme FPS lag on low end devices
+* Unstability not converting properly
+
+# CHANGES
+* R:SIHODAD's slap speed (15 > 35)
+* Doubled automatic shutdown timer from 8 hours to 16 hours
+* Reverse no longer reverses anything that isn't a slap
+* [M][A][O][W]: Destroyer of Worlds Slap Speed (10000) -> (50)
+* [M][A][O][W]: Destroyer of Worlds Slap Power(25) -> (35)
+* Nerfed sansman888 (BOSS)
+* * Phase 1 walkspeed 36 > 28
+* * Phase 2 walkspeed 60 > 45
+* * Phase 2 slap power 150 > 100
+* * Phase 2 halved dummy count
+* * Phase 3 Health 25000 > 10000
+* * Phase 3 walkspeed 100 > 65
+* * Phase 3 power 666 > 250
+* * Phase 3 slap speed 500 > 100
+* Made Bus go progressively faster instead of just shooting forward
+* Beams/Orbs now deal knockback in the direction they're facing, rather than the player's direction
+
+
+# REMOVED
+* Disabled waves
+* Immunity to the timer of doom
+* Console-Only servers
