@@ -1,0 +1,59 @@
+# ADDITIONS
+* Ghost Ping setting, lets you see your server position
+* Merged Reaper (Combat) and Reaper: Pure Darkness into Reaper
+* Rescripted Absolution
+* Reworked Sightless
+* Arbiter is back
+* Skip glove
+* Aleph Tag
+* Added an orb to the big tree island that brings you back incase you get stuck
+
+# FIXES
+* Fixed 250 KS(E) Explosion
+* Fixed 100 Telekinesis never triggering
+* Fixed Eternal & Chronomatic abilities
+* Fixed softlock with Frozen
+* Fixed Power Stun
+* Fixed Test of Values rejoin not working properly
+* Fixed Lifetime: Chronicles surviving Darkheart
+* Fixed Omnipotent being unobtainable
+* ACTUALLY lowered phase 1 sansman walkspeed (it was still getting set to 70 for some reason)
+* Fixed red water event staying permanently
+* Fixed Ultra Instinct + Darkheart softlock
+* Fixed Troll banana collision
+
+
+# CHANGES
+* Buffed KS(E) 160 Orb size (20 > 28)
+* Buffed KS(E) 100 Orb cooldown (15 > 8)
+* Buffed KS(E) 160 Orb cooldown (15 > 12)
+* Changed Hardcore AI spawning logic (25% chance for harder AI, 75% chance for old hc AI)
+* Adjusted Smile phase 1 resistances (80 PCAP > 60, 85 KBR > 75, removed Nuke immunity)
+* Buffed Smile phase 0 resistances (None > 80 PCAP)
+* Decreased Smile combo damage multiplier (1, 1.15, 1.6 > 1, 1.15, 1.4)
+* Increased Smile max damage (100 > 500)
+* Buffed Smile "phase" 2 corpse requirement (50 > 25)
+* Buffed Smile phase 1 corpse requirement (15 > 10)
+* KS(E) orbs now deal horizontal knockback
+* Buffed 10 Omnipotent PowerCap (inf > 60)
+* Buffed 10 Omnipotent soul damage (1 > 5)
+50 Killstreak/Mimic/KS(E) no longer has invincibility frames, it's now immune to all forms of ragdoll/kb instead
+* Merged Creation island with the main arena
+* Removed LC island, LC can now be obtained in the main arena
+* Reduced the size of the water
+* Smile now heals 25% MHP per kill
+* Scythe now deals additional damage when hitting someone with the scythe model itself aswell as applying bleeding, preventing regeneration for a period of time
+* Scythe now acts as a combo extender (can hit ragdolls)
+* Gave 13333 R:PD 3s lingering iframes after transition
+* Nerfed 13333 R:PD Walkspeed (333 > 133)
+* Buffed 10k & 12.5k R:PD Immunities (25% > 50% KBR)
+* R:PD's beam now grows over 6 seconds, remaining at max size for 4 seconds before disappearing
+* Buffed player bosses:
+* * Phase 1 HP 750 > 5000
+* * Phase 1 WalkSpeed 8 > 24
+* * Phase 2 HP 1750 > 15000
+* * Phase 2 WalkSpeed 20 > 36
+
+
+# REMOVED
+nothing :)
