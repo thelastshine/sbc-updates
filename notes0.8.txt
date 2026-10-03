@@ -1,0 +1,42 @@
+# ADDITIONS
+## HALLOWEEN STUFF IS BACK YEAHHH NO NEW STUFF YET BECAUSE ~~WE'RE LAZY~~ ITS TAKING LONGER THAN EXPECTED
+* Added obtainments for the following Starlight skins:
+* * Nuclear
+* * Paradox
+* * Laziness
+
+# FIXES
+Fixed R:PD beam FPS lag
+* Fixed Alchemist "Broken" Potion going into negative Power
+* Fixed Pathogenic Infernum MaxHP check not set killing things with 1M HP or higher
+* Fixed Clarity disk ability
+* Fixed visual bugs with Phytosphere
+* Fixed the aura settings
+* Absolution's burning aura now properly grants kills
+* Fixed orbs staying if you die while charging
+* Hopefully fixed Spirit persisting if RPD user leaves
+* Fixed Chronomatic max ability
+* Fixed Killstreak having Telekinesis at 1k+
+* Fixed Starlight falling on spawn
+* Fixed Gun dealing no damage
+* Fixed infinite particles on Lifetime: Chronicles equip
+* Optimized Lifetime: Chronicles equip
+* Reduced the size of the Lifetime: Chronicles equip particles
+* Fixed Absolution stomp indicator not despawning sometimes
+* Made screenshake instantly stop if the origin is deleted
+
+# CHANGES
+* Unstability now heals health equal to maxhealth gain upon time stat increase
+* Ported Killstreak's abilities to the manager
+* Slightly nerfed Killstreak's orbs across the board
+* Made Killstreak's damage calculation use kills instead of power
+* Reverted volume changes (volume slider is right there)
+* Buffed R:PD beam damage (1%/tick > 2%/tick) (still capped at the same values)
+* R:PD beam can now be turned at a slow speed
+* Redid the dodges system
+* You now have to stay in the creation teleporter for 3s to get queued, you will also no longer teleport if you leave the zone
+* Reanimated Enigmania
+
+# REMOVED
+* Extreme mode
+* Temporarily disabled Ghost Ping while we find out a fix for it breaking movement
