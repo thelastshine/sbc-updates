@@ -1,0 +1,119 @@
+# ADDITIONS
+* **410**
+* **Lifetime (R)**
+* **Prism**
+* **Last Hope** for Divinus: Eternal Radiance
+* **Variants**:
+* * Darkheart: Goldheart, Obtained by donating 100+ robux
+* * Unstability: Stability, Obtained by owning Armageddon and logging in within 3 days from the update
+* * Unstability: Redux, Obtained by nuking with Unstability during an AAO event
+* * Souls: Flowery, Obtained by hitting 7 Bravery abilities in quick succession
+* **New emote**: STREETCAT
+* **Damage types**
+* **Ping/MS** now shows in the leaderboard
+
+# FIXES
+* Server region now uses ROBLOX's own newly released API, hopefully making it more accurate
+* **Fixed R:PD's Against All Odds phase** being buggy
+* **Optimized combustion** & made it not work if power dealt is below 5
+* **Fixed** certain gloves **surviving Timer of Doom**
+* **Hitfloat now only regenerates while grounded** and not ragdolled, the regen timer does not count down otherwise
+* Fixed getting stuck in the void
+* **Fixed Reaper's speedfloat** being lower than intended
+* Fixed being able to nuke twice at the same time
+* **Fixed D:ER flinging** when entering portals
+* **Fixed R:PD Slowdown** bugs(?)
+* Fixed Infectious orb applying effect through forcefield
+* Fixed Killstreak slap speed bug
+* Fixed Troll's banana
+* **Fixed Hit's suplex ability** not ragdolling
+* **Fixed R:PD beam** speed bugs
+* Fixed 250 R:PD ability
+* **Fixed Infernal Stomp** hit detection
+* **Fixed % damage on infinite HP** breaking abilities
+* Fixed 8K+ TFS not dealing damage with its glove
+* Fixed 8K+ TFS' sword acting weird with powercap
+* Fixed TFS' sword holstering visual
+* Fixed TFS' Piercing Stab changing to the sword only visually
+* Fixed sansman888 (Glove)
+* Fixed Holo-Cannon
+* Fixed Alchemist causing permanent stat changes
+* **Optimized Enigmania**'s Blaster
+* Fixed Buff requirements buttons
+* **Fixed Eden Garden** only applying its effect once
+* Fixed Stalker being able to grab another stalker mid-ability to recreate flappy bird
+* **Fixed Present** defining restored values incorrectly
+* **Fixed Unstability's Silence Phase** having a permanant global theme
+* Made Disable Buffs work with Killstreak
+* **Fixed The First Fallen** badge
+* Fixed Chronomatic's Second phase having both Timestop and Time Sphere at the same time on the same keybind
+* Fixed Unhinged Enmity's aura dragging it
+* Fixed the fog from Reaper: Pure Darkness staying removed after another R:PD passes kills exceeding 10k
+* **Fixed Witchery + Alchemist effects** causing permanent boosts when stacked
+
+# CHANGES
+* **Redid the Edit UI, Tags and Update Logs GUI**, You can now view previous update logs
+* **Increased the size of the text above the portals** to make it easier to see what they do at first glance
+* Requirements signs now grow in size when in proximity and are visible by default
+* **Lowered the flash flood height** so it doesn't kill people on lower islands
+* **Removed Silence effect from the massive portal** and extended iframe duration (0.65s > 1s)
+* **Abilities are no longer usable while ragdolled** (With some exceptions)
+* Characters can now only be slapped once per timestop
+* **Changed It Stares Back requirement** back to 500
+* Nerfed Mimic Telekinesis (100% kbr bypass > 50% kbr bypass)
+* Nerfed Killstreak Telekinesis (100% kbr bypass > 50% kbr bypass)
+* Nerfed 2500 Killstreak's Powercap (40 > 50)
+* Nerfed 5000 Killstreak's Powercap (45 > 50)
+* Nerfed Mimic's power scaling (7.5 > 1.8)
+* Nerfed 310 Mimic's HP (INF > 5000)
+* Uncapped Anti's HP scaling
+* Increased Anti's max power (100 > 250)
+* Increased and uncapped Anti's damage scaling
+* Unvaulted and buffed anti's ability
+* Uncapped Reaper's damage scaling
+* Heavily lowered 500 Reaper's slap speed (100 > 16) (effectively this changes nothing since your slap anim is long)
+* 500 Reaper's Hitbox is now actually accurate to the visual scythe
+* 500 Reaper's slap now infinitely pierces targets
+* Lifetime: Chronicles' Damage Reduction is nerfed from 25%>50% at max clock phase, 50%>75% dmg reduction cap before the max clock phase, dmg reduction gain from long arrow reduced from .1%>.05%.
+* Added an audio visualizer to 5K and 15K Absolution
+* Updated Darkheart phase aura
+* Roulette now has capped damage when rolling 17 (25000)
+* Fixed Holo-Glove price scaling
+* Buffed Holo-Armor's regeneration (2.5 > 5)
+* Buffed Holo-Shield's powercap (150 > 65)
+* Readded the ability for Holo-Glove's healing sphere to let you gain max HP
+* Readded Holo-Edge (without its waterwalk passive)
+* Holo-Glove can now build walls
+* Buffed Enigmania's Teleport distance (10 > 35)
+* Buffed Enigmania dodge gain (1/15 kills > 1/10 kills)
+* Nerfed Karma effect's damage (1% > 0.66%)
+* Removed most Megalomaniac immunities
+* Sbeve is now unable to spawn NPCs
+* Reaper's Bleeding effect now only applies if you actually take damage
+* Heavily reduced R:PD's kill requirements in Hardcore
+* Buffed 10K R:PD (WW regen 10s > 3.5s)
+* Nerfed 150 R:PD (PCap 50 > 90)
+* Nerfed 250 R:PD (PCap 50 > 75)
+* Buffed 666 R:PD (KBR 70 > 50, SuperArmor during beam)
+* Removed AntiNuke from Mimic
+* Nerfed Unstability
+* * Phase 3
+* * * WS (100 > 70)
+* * * KBR (25 > 50)
+* * * Recover (Silenced until fully visible)
+* * Destiny
+* * * WS (210 > 100)
+* * * JP (180 > 120)
+* * Calamity
+* * * WS (250 > 135)
+* * * JP (180 > 150)
+* * Catastrophe
+* * * WS (300 > 175)
+* * * JP (120 > 100)
+* * Apocalypse
+* * * WS (300 > 220)
+* * * JP (250 > 175)
+* * * PCAP (30 > 50)
+
+# REMOVED
+* Nothing i think i dont remember
