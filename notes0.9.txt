@@ -11,6 +11,7 @@
 * **New emote**: STREETCAT
 * **Damage types**
 * **Ping/MS** now shows in the leaderboard
+* **Chat status** now shows in the leaderboard
 
 # FIXES
 * Server region now uses ROBLOX's own newly released API, hopefully making it more accurate
