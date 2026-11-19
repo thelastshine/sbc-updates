@@ -74,7 +74,10 @@
 * Heavily lowered 500 Reaper's slap speed (100 > 16) (effectively this changes nothing since your slap anim is long)
 * 500 Reaper's Hitbox is now actually accurate to the visual scythe
 * 500 Reaper's slap now infinitely pierces targets
-* Lifetime: Chronicles' Damage Reduction is nerfed from 25%>50% at max clock phase, 50%>75% dmg reduction cap before the max clock phase, dmg reduction gain from long arrow reduced from .1%>.05%.
+* Lifetime: Chronicles' Damage Reduction is nerfed from:
+* * 25% > 50% at max clock phase
+* * 50% > 75% dmg reduction cap before the max clock phase
+* * dmg reduction gain from long arrow reduced from .1% > .05%
 * Added an audio visualizer to 5K and 15K Absolution
 * Updated Darkheart phase aura
 * Roulette now has capped damage when rolling 17 (25000)
