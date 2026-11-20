@@ -1,6 +1,5 @@
 # ADDITIONS
 * **410**
-* **Lifetime (R)**
 * **Prism**
 * **Last Hope** for Divinus: Eternal Radiance
 * **Variants**:
@@ -53,6 +52,9 @@
 * **Fixed Witchery + Alchemist effects** causing permanent boosts when stacked
 
 # CHANGES
+* SuperArmor now makes you resistant to the Eradicate effect, instead dealing 25% Max HP damage with an increased slap cooldown
+* **Gravitational madness is now obtainable "alone"**, The Skip glove sends you to the place if its ability is active while a timestop occurs, no specific timing required
+* Swapped Reverse and Skip's requirements
 * **Redid the Edit UI, Tags and Update Logs GUI**, You can now view previous update logs
 * **Increased the size of the text above the portals** to make it easier to see what they do at first glance
 * Requirements signs now grow in size when in proximity and are visible by default
@@ -96,6 +98,7 @@
 * Reaper's Bleeding effect now only applies if you actually take damage
 * Heavily reduced R:PD's kill requirements in Hardcore
 * Buffed 10K R:PD (WW regen 10s > 3.5s)
+* 10K R:PD now has SuperArmor during the transition
 * Nerfed 150 R:PD (PCap 50 > 90)
 * Nerfed 250 R:PD (PCap 50 > 75)
 * Buffed 666 R:PD (KBR 70 > 50, SuperArmor during beam)
